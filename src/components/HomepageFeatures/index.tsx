@@ -60,9 +60,7 @@ export default function HomepageFeatures(): JSX.Element {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+          「地物学科かっちゃんの物理と雑多なことの掃き溜め」の一部移転先です。
         </div>
       </div>
     </section>
