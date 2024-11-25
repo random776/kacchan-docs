@@ -10,7 +10,7 @@ sidebar_position: 4
 
 - [電磁気学に用いるベクトル公式集](http://www7b.biglobe.ne.jp/~fortran/education/eleki/vector.pdf)
 
-- [ベクトル解析公式集](www.takuichi.net/hobby/edu/vector_analysis/vector_identities.pdf)
+- [ベクトル解析公式集](http://www.takuichi.net/hobby/edu/vector_analysis/vector_identities.pdf)
 
 ## Typst関連
 
