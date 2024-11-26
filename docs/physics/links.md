@@ -4,7 +4,15 @@ sidebar_position: 4
 
 # リンク集
 
+> 最終更新：2024年11月26日
+
 僕がよく参照しているサイトをここに掲載しておきます。
+
+:::warning[Warning]
+
+内容の正しさは保証しません。
+
+:::
 
 ## ベクトル解析の公式
 
@@ -27,3 +35,7 @@ sidebar_position: 4
 - [Python早見帳](https://chokkan.github.io/python/index.html)
 
     - 詳細な説明文はあまりなく、具体的なコード中心。
+
+## ラグランジュの未定乗数法
+
+- [高校数学の美しい物語：ラグランジュの未定乗数法と例題](https://manabitimes.jp/math/879)
