@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # Python：自分用メモ
 
-自分が実験などで解析に使うPythonコードをまとめたものです。
+> 最終更新：2024 年 11 月 29 日
+
+自分が実験などで解析に使う Python コードをまとめたものです。
 
 ## 数値積分
 
@@ -12,7 +14,7 @@ sidebar_position: 2
 
 台形公式を用いて計算します。
 
-``` python title="integral.py"
+```python title="integral.py"
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -52,7 +54,7 @@ $$
 
 `numpy.polyfit`を使うようです。
 
-``` python title="least_squares.py"
+```python title="least_squares.py"
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -80,3 +82,66 @@ $y = 3.30x - 1.00$ に線形回帰される。
 
 ![graph](./img/least_squares.png)
 
+## ルジャンドル多項式
+
+### 実装
+
+`numpy.polynomial.legendre` を使うようです。
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from numpy.polynomial.legendre import Legendre
+
+# x軸の範囲を設定
+x = np.linspace(-1, 1, 500)
+
+# ルジャンドル多項式を定義
+P0 = Legendre([1])               # P0(x)
+P1 = Legendre([0, 1])            # P1(x)
+P2 = Legendre([0, 0, 1])         # P2(x)
+P3 = Legendre([0, 0, 0, 1])      # P3(x)
+
+# グラフを描画
+plt.figure(figsize=(8, 6))
+plt.plot(x, P0(x), label="P0(x)", linestyle="--")
+plt.plot(x, P1(x), label="P1(x)", linestyle="-.")
+plt.plot(x, P2(x), label="P2(x)", linestyle=":")
+plt.plot(x, P3(x), label="P3(x)")
+
+# グラフの外形を強調
+plt.axhline(0, color='black', linewidth=0.8)  # x軸
+plt.axvline(0, color='black', linewidth=0.8)  # y軸
+
+# ラベルと凡例
+plt.title("Legendre Polynomials")
+plt.xlabel("x")
+plt.ylabel("P_n(x)")
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+### 結果
+
+0 次、1 次、2 次、3 次のルジャンドル多項式は
+
+$$
+ P_0(x) = 1
+$$
+
+$$
+P_1(x) = x
+$$
+
+$$
+P_2(x) = \frac{1}{2}(3x^2 - 1)
+$$
+
+$$
+P_3(x) = \frac{1}{2}(5x^3 - 3x)
+$$
+
+であり、次のように表せる。
+
+![graph](./img/legendre.png)
