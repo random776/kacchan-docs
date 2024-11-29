@@ -88,7 +88,7 @@ $y = 3.30x - 1.00$ に線形回帰される。
 
 `numpy.polynomial.legendre` を使うようです。
 
-```python
+```python title="legendre.py"
 import numpy as np
 import matplotlib.pyplot as plt
 from numpy.polynomial.legendre import Legendre
