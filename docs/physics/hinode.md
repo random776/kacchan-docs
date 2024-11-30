@@ -66,9 +66,9 @@ $$
 
 :::
 
-## グラフに出力する
+## グラフを出力する
 
-日の出、日の入り時間を視覚的に捉えられるよう、ChatGPTでPythonに直してもらった上、グラフに表示してもらいました。ソースコードも記しておきます。こちらの [参考資料](https://eco.mtk.nao.ac.jp/koyomi/wiki/C6FCA4CEBDD0C6FEA4EAA4C8C6EEC3E62FC6FCA4CEBDD0C6FEA4EAA4CEB5A8C0E1CAD1B2BD.html) も参照。
+日の出、日の入り時間を視覚的に捉えられるよう、ChatGPTでPythonに直してもらった上、グラフを表示してもらいました。ソースコードも記しておきます。こちらの [参考資料](https://eco.mtk.nao.ac.jp/koyomi/wiki/C6FCA4CEBDD0C6FEA4EAA4C8C6EEC3E62FC6FCA4CEBDD0C6FEA4EAA4CEB5A8C0E1CAD1B2BD.html) も参照。
 
 ![graph](./img/sunrise.png)
 
@@ -78,10 +78,6 @@ $$
 import numpy as np
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
-from matplotlib import rcParams
-
-# 日本語フォントの設定
-rcParams['font.family'] = 'DejaVu Sans'  # フォントを変更
 
 def calculate_sun_times(year):
     """ 指定した年の各日の日の出・日の入り時刻を計算 """
