@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # リンク集
 
-> 最終更新：2024年11月26日
+> 最終更新：2024年11月30日
 
 僕がよく参照しているサイトをここに掲載しておきます。
 
@@ -39,3 +39,13 @@ sidebar_position: 4
 ## ラグランジュの未定乗数法
 
 - [高校数学の美しい物語：ラグランジュの未定乗数法と例題](https://manabitimes.jp/math/879)
+
+## ガウス関数の積分
+
+- [理数アラカルト：ガウス積分の公式集 (証明付)](https://risalc.info/src/gaussian-integral.html)
+
+## フーリエ変換
+
+- [EMANの物理学：合成積](https://eman-physics.net/math/fourier08.html)
+
+    - いわゆる畳み込み積分のフーリエ変換の解説をしている。
