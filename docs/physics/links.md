@@ -59,3 +59,9 @@ sidebar_position: 4
 - [EMANの物理学：合成積](https://eman-physics.net/math/fourier08.html)
 
     - いわゆる畳み込み積分のフーリエ変換の解説をしている。
+
+## GitHub Copilot
+
+- [GitHub Copilot のドキュメント](https://docs.github.com/ja/copilot)
+
+    - GitHub Copilotの使い方についての解説。
