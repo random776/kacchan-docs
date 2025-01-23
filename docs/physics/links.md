@@ -46,6 +46,10 @@ sidebar_position: 5
 
     - フーリエ解析など。
 
+- [エクセルの条件分岐](https://www.forguncy.com/blog/20180221_branch)
+
+    - IF関数の使い方。
+
 ## ラグランジュの未定乗数法
 
 - [高校数学の美しい物語：ラグランジュの未定乗数法と例題](https://manabitimes.jp/math/879)
@@ -55,6 +59,10 @@ sidebar_position: 5
 - [理数アラカルト：ガウス積分の公式集 (証明付)](https://risalc.info/src/gaussian-integral.html)
 
 ## フーリエ変換
+
+- [高校数学の美しい物語：フーリエ変換の意味と応用例](https://manabitimes.jp/math/2280)
+
+    - フーリエ変換の具体的な表式が掲載されている（ただし波数空間について）。
 
 - [EMANの物理学：合成積](https://eman-physics.net/math/fourier08.html)
 
