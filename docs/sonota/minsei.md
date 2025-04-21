@@ -43,6 +43,6 @@ sidebar_position: 4
 
 - [＜主張＞日本共産党　退潮の理由が分からぬか](https://www.sankei.com/article/20250206-BKFZS6KGL5KPJMD5BC7MH4Y67A/)（産経新聞、令和7年2月6日）：[綱領](https://www.jcp.or.jp/web_jcp/html/Koryo/) に「自衛隊の解消」を掲げた共産党は、**安全保障環境に対して極めて非現実的な立場**をとっている。今更共産主義の時代でもあるまい。
 
-- [日本共産党規約](https://www.jcp.or.jp/web_jcp/html/Kiyaku/index.html)：日本共産党は、規約に「**民主集中制**」を掲げるが、その実態は[異論への不寛容さ](https://www.asahi.com/articles/ASS3766NWS37UTIL028.html)として現れる。これでは異論を持った人や他のリベラル政党を支持する人が党員になるわけはない。「民主」とは一体どこへ行ったものか。
+- [日本共産党規約](https://www.jcp.or.jp/web_jcp/html/Kiyaku/index.html)：日本共産党は、規約に「**民主集中制**」を掲げるが、その実態は[異論への不寛容さ](https://www.asahi.com/articles/ASS3766NWS37UTIL028.html)として現れる。これでは異論を持った人や他のリベラル政党も支持する人が党員になるわけはない（そういう人を見聞きしたことがある）。「民主」とは一体どこへ行ったものか。
 
 :::
