@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 個人的な政治的見解
 
-> 最終更新：2025年4月19日
+> 最終更新：2025年5月6日
 
 :::warning[Warning]
 
