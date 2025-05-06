@@ -20,7 +20,7 @@ sidebar_position: 1
 
 - 「**[日本の尊厳と国益を護る会](https://www.sankei.com/article/20250227-ZX2K7K647VGX7OWXYTAY6C3NXQ/)**」（自由民主党の保守系議員グループ）
 
-[#対決より解決](https://www.sankei.com/article/20241216-DZMBYWH6MROJHE5ZWTGKGLI6HU/)　[#自分の国は自分で守る](https://new-kokumin.jp/policies/policy2) 🇯🇵🇹🇼
+[#対決より解決](https://www.sankei.com/article/20241216-DZMBYWH6MROJHE5ZWTGKGLI6HU/)　[#自分の国は自分で守る](https://new-kokumin.jp/policies/policy2)
 
 :::
 
