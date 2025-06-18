@@ -37,17 +37,17 @@ sidebar_position: 4
 
 :::info[参考文献]
 
-- 産経新聞. [日本発の全樹脂電池に技術流失懸念、国際問題アナリストの古川氏「刑事罰強化など急務」](https://www.sankei.com/article/20250308-MLW3S2L6O5PJLMQOETYFZL73LA/). 2025年3月8日.
+- 産経新聞. [日本発の全樹脂電池に技術流失懸念、国際問題アナリストの古川氏「刑事罰強化など急務」](https://www.sankei.com/article/20250308-MLW3S2L6O5PJLMQOETYFZL73LA/). （2025年3月8日）2025年6月19日閲覧.
 
-- 東京大学新聞. [先端技術流出防止へ「経済安全保障研究プログラム」発足](https://www.todaishimbun.org/security_program20201101/). 2020年11月1日.
+- 東京大学新聞. [先端技術流出防止へ「経済安全保障研究プログラム」発足](https://www.todaishimbun.org/security_program20201101/). （2020年11月1日）2025年6月19日閲覧.
 
-- 日本経済新聞. [研究者通じた技術流出、AIで防止 政府が大学など支援へ](https://www.nikkei.com/article/DGXZQOUA257AM0V21C24A2000000/). 2025年3月22日.
+- 日本経済新聞. [研究者通じた技術流出、AIで防止 政府が大学など支援へ](https://www.nikkei.com/article/DGXZQOUA257AM0V21C24A2000000/). （2025年3月22日）2025年6月19日閲覧.
 
-- 産経新聞. [年290万円の院生支援、3割は中国人留学生 自民・有村氏「日本も自国の学生重視して」](https://www.sankei.com/article/20250324-SLQZKAXYKFGCHAJKS3URGYCXPQ/). 2025年3月24日.
+- 産経新聞. [年290万円の院生支援、3割は中国人留学生 自民・有村氏「日本も自国の学生重視して」](https://www.sankei.com/article/20250324-SLQZKAXYKFGCHAJKS3URGYCXPQ/). （2025年3月24日）2025年6月19日閲覧.
 
-- 東京大学. [多様性の海へ:対話が創造する未来](https://www.u-tokyo.ac.jp/content/400241376.pdf)
+- 東京大学. [多様性の海へ:対話が創造する未来](https://www.u-tokyo.ac.jp/content/400241376.pdf) 2025年6月19日閲覧.
 
-- 共同通信. [東大、留学生受け入れへ ハーバード大への措置巡り](https://news.yahoo.co.jp/articles/87d9843f454ca894d94fa8810c9abd3dc1a7c6e8) 2025年5月26日.
+- 共同通信. [東大、留学生受け入れへ ハーバード大への措置巡り](https://news.yahoo.co.jp/articles/87d9843f454ca894d94fa8810c9abd3dc1a7c6e8) （2025年5月26日）2025年6月19日閲覧.
 
 :::
 
