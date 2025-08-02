@@ -70,11 +70,11 @@ sidebar_position: 4
 
 - 共同通信. [東大、留学生受け入れへ ハーバード大への措置巡り](https://news.yahoo.co.jp/articles/87d9843f454ca894d94fa8810c9abd3dc1a7c6e8) （2025年5月26日）2025年6月19日閲覧.
 
-- 科学技術振興機構. [「次世代研究者挑戦的研究プログラム（SPRING）」による博士後期課程学生支援制度の見直しについて](https://www.jst.go.jp/report/2025/250709.html) (2025年7月9日) 2025年8月1日閲覧.
+- 科学技術振興機構. [「次世代研究者挑戦的研究プログラム（SPRING）」による博士後期課程学生支援制度の見直しについて](https://www.jst.go.jp/report/2025/250709.html) (2025年7月9日) 2025年8月3日閲覧.
 
-- STUDY in JAPAN. [2024（令和6）年度外国人留学生在籍状況調査結果](https://www.studyinjapan.go.jp/ja/statistics/enrollment/data/2504301000.html) （2025年4月）2025年8月1日閲覧.
+- STUDY in JAPAN. [2024（令和6）年度外国人留学生在籍状況調査結果](https://www.studyinjapan.go.jp/ja/statistics/enrollment/data/2504301000.html) （2025年4月）2025年8月3日閲覧.
 
-- 外国人材、現場からは以上です。｜柏手真治 note [「外国人ばかり優遇」はほんまなん？奨学金と制度の“真実”を読み解いてみた](https://note.com/just_badger7680/n/nc1d34528b1ee) (2025年6月12日) 2025年6月19日閲覧.
+- 外国人材、現場からは以上です。｜柏手真治 note [「外国人ばかり優遇」はほんまなん？奨学金と制度の“真実”を読み解いてみた](https://note.com/just_badger7680/n/nc1d34528b1ee) (2025年6月12日) 2025年8月3日閲覧.
 
 :::
 
