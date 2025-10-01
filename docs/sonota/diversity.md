@@ -12,6 +12,8 @@ sidebar_position: 4
 
 しかし、その批判の中で「学問の場で多様性を担保することは利益しかない」という論調が見られた。この見方には、本当に問題はないのだろうか。本稿は、「排外主義を避けること」と「**技術・研究成果の情報保全体制の整備**」をどう両立させるかを考えるための問題提起である。
 
+[#セキュリティクリアランス](https://www.cao.go.jp/keizai_anzen_hosho/hogokatsuyou/hogokatsuyou.html)　[#国際頭脳循環](https://www8.cao.go.jp/cstp/kihonkeikaku/index6.html)　[#博士課程支援](https://www.sankei.com/article/20250324-SLQZKAXYKFGCHAJKS3URGYCXPQ/)
+
 :::
 
 :::warning[注意]
