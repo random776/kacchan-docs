@@ -20,8 +20,7 @@ sidebar_position: 1
 
 - **[自由民主党](https://www.jimin.jp/)** （高市総理総裁・茂木外務大臣）
 
-[#対決より解決](https://www.sankei.com/article/20241216-DZMBYWH6MROJHE5ZWTGKGLI6HU/)　[#自分の国は自分で守る](https://new-kokumin.jp/policies/policy2)
-[#責任ある積極財政](https://www.sankei-books.co.jp/m2_books/2024/9784819114417.html)
+[#対決より解決](https://www.sankei.com/article/20241216-DZMBYWH6MROJHE5ZWTGKGLI6HU/)　[#自分の国は自分で守る](https://new-kokumin.jp/policies/policy2)　[#責任ある積極財政](https://www.sankei-books.co.jp/m2_books/2024/9784819114417.html)
 
 :::
 
@@ -30,3 +29,5 @@ sidebar_position: 1
 - [個人的な政策論集 #1](../web/pdf/politics_001.pdf)：（2025年12月8日）財政政策・物価高対策のあり方について
 
 - [個人的な政策論集 #2](../web/pdf/politics_002.pdf)：（2026年1月25日）2026年衆議院選挙に向けた政策提言
+
+- [個人的な政策論集 #3](../web/pdf/politics_004.pdf)：（2026年1月25日）個人的な経済安全保障についての考え方
